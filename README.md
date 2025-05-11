@@ -1,8 +1,9 @@
-# 👨🏻‍💻 Gustavo Rodrigues Oliveira
+# 👨🏻‍💻 Gustavo Rodrigues 
 
-**`Desenvolvedor Backend Java`**
+**`Desenvolvedor FullStack`**
 
-Me chamo Gustavo Rodrigues Oliveira, sou de Planaltina-GO e atualmente curso o 5º semestre de Análise e Desenvolvimento de Sistemas na UniProjeção. Tenho paixão por desenvolvimento backend, especialmente com Java e Spring Boot, e estou sempre em busca de desafios que me façam crescer profissionalmente.
+Sou Gustavo Rodrigues Oliveira, estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento backend utilizando Java e Spring Boot. Tenho experiência na construção de APIs RESTful, integração com bancos de dados relacionais e boas práticas de versionamento com Git. Busco constantemente aprimorar minhas habilidades técnicas e contribuir com soluções eficientes e escaláveis para os projetos em que atuo.
+
 
 <p align="left">
   <a href="https://github.com/gustavorodriDEV?tab=repositories&sort=stargazers">
@@ -28,11 +29,19 @@ Me chamo Gustavo Rodrigues Oliveira, sou de Planaltina-GO e atualmente curso o 5
 <img alt="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />&nbsp;
 <img alt="Spring" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />&nbsp;
 <img alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />&nbsp;
+<img alt="PostgreSQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />&nbsp;
+<img alt="MongoDB" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />&nbsp;
 <img alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;
-<img alt="Flask" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />&nbsp;
+<img alt="Flask" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />&nbsp;<br/>
+<img alt="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />&nbsp;
+<img alt="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />&nbsp;
+<img alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />&nbsp;
+<img alt="SQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />&nbsp;
+<img alt="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />&nbsp;
+<img alt="Bootstrap" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />&nbsp;
 <img alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />&nbsp;
 <img alt="Postman" width="30px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
-
+<br/><br/><br/>
 ---
 
 ### 🚀 Projetos em Destaque
