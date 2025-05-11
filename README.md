@@ -1,4 +1,3 @@
-```markdown
 # 👨🏻‍💻 Gustavo Rodrigues Oliveira
 
 **`Desenvolvedor Backend Java`**
@@ -26,14 +25,13 @@ Me chamo Gustavo Rodrigues Oliveira, sou de Planaltina-GO e atualmente curso o 5
 
 ### 🧠 Tecnologias e Ferramentas
 
-<img align="left" alt="Java" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-<img align="left" alt="Spring" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-<img align="left" alt="MySQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img align="left" alt="Flask" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Postman" width="30px" style="padding-right: 10px;" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
-<br/><br/>
+<img alt="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />&nbsp;
+<img alt="Spring" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />&nbsp;
+<img alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />&nbsp;
+<img alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;
+<img alt="Flask" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />&nbsp;
+<img alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />&nbsp;
+<img alt="Postman" width="30px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
 
 ---
 
@@ -47,11 +45,9 @@ Me chamo Gustavo Rodrigues Oliveira, sou de Planaltina-GO e atualmente curso o 5
 ### 📊 Estatísticas GitHub
 
 <p>
-  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavorodriDEV&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
-  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavorodriDEV&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavorodriDEV&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavorodriDEV&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8"/>
 </p>
-
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 ---
 
@@ -64,4 +60,3 @@ Me chamo Gustavo Rodrigues Oliveira, sou de Planaltina-GO e atualmente curso o 5
 ---
 
 ✨ Obrigado pela visita!
-```
