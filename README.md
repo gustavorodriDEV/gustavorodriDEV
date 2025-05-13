@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Sou Gustavo Rodrigues Oliveira, estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento backend utilizando Java e Spring Boot. Tenho experiência na construção de APIs RESTful, integração com bancos de dados relacionais e boas práticas de versionamento com Git. Busco constantemente aprimorar minhas habilidades técnicas e contribuir com soluções eficientes e escaláveis para os projetos em que atuo.
+Sou Gustavo, estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento backend utilizando Java e Spring Boot. Tenho experiência na construção de APIs RESTful, integração com bancos de dados relacionais e boas práticas de versionamento com Git. Busco constantemente aprimorar minhas habilidades técnicas e contribuir com soluções eficientes e escaláveis para os projetos em que atuo.
 
 
 <p align="left">
