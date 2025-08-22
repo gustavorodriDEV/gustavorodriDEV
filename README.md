@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=4000&pause=1000&color=0077B6&center=true&vCenter=true&width=435&lines=Desenvolvedor+FullStack+%7C+Backend" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=4000&pause=1000&color=0077B6&center=true&vCenter=true&width=435&lines=Desenvolvedor+FullStack+%7C" alt="Typing SVG">
   </a>
 </div>
 
